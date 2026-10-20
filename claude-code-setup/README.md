@@ -1,8 +1,7 @@
 # Claude Code setup
 
 I work in Claude Code with written ground rules, plus guard hooks that stop secrets
-from being committed and destructive commands from running. The hooks have their own
-test suite.
+from being committed and destructive commands from running.
 
 ## What is mine
 
