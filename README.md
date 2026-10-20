@@ -19,5 +19,5 @@ the safety rules, and the proof. The code itself is private, and no client is na
 
 ## Contact
 
-carlidrissocampo@gmail.com
+idrizz28@gmail.com
 Portfolio: https://idriss-ocampo.vercel.app/
