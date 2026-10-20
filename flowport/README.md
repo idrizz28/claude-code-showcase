@@ -48,3 +48,9 @@ real exports that is not part of the clean copy).*
 
 An adversarial audit found 40 defects, 6 of them blockers. I fixed them and added
 tests to cover them.
+
+## Screenshots
+
+![FlowPort interface](img/flowport-ui.png)
+
+![A workflow loaded as the source](img/flowport-source-loaded.png)
